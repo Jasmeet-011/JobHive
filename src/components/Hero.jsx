@@ -1,5 +1,5 @@
 import React from 'react'
-
+// here we are destructuring the title and subtitle attributes so now we do not need to do props.attribute name for giving a default  we can add it during destructing the attributes like we gave below in title and subtitle
 const Hero = ({title='Become a React Dev', subtitle='Find the jobs that fits your skills and needs'}) => {
 	return (
 		<section className="bg-indigo-700 py-20 mb-4">
