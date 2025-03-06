@@ -25,8 +25,6 @@
 - **Job API Integration**: LinkedIn, Indeed APIs
 - **Deployment**: Vercel (Frontend), Render (Backend)
 
-## 📸 Screenshots
-![JobHive UI](https://your-image-link.com)
 
 ## 🎯 Installation & Setup
 ### Prerequisites
